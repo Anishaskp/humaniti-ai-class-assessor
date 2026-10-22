@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+secrets.toml
+*.mp4
+*.mov
+*.mkv
+*.webm
