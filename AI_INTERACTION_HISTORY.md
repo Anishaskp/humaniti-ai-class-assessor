@@ -1,10 +1,10 @@
 # AI Interaction History
 
-This file records the relevant AI-assisted research, design, development and review interactions used for the challenge. Personal information, credentials and unrelated conversation have been removed.
+This file records the relevant AI-assisted research, design, development and review interactions used for the challenge.
 
 ## Interaction 1: Requirements interpretation
 
-**Prompt:** Review the challenge requirements and identify the minimum viable submission, evaluation priorities and privacy constraints.
+**Prompt:** Review the challenge requirements and identify the minimum viable submission and evaluation priorities.
 
 **AI response summary:** The application must accept an unseen class recording, return Poor/Average/Good/Excellent, and explain the result with specific observations. The highest-value areas are assessment quality and effective AI use. The submission also requires a hosted application, GitHub source, AI interaction history and a maximum 300-word explanation. Recordings must remain confidential.
 
