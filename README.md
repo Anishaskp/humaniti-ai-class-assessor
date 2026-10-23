@@ -41,10 +41,6 @@ The first transcription run downloads the Whisper model. For offline deployment,
 
 Thresholds: Excellent >= 85, Good 70-84, Average 50-69, Poor < 50. These are prototype thresholds and should be calibrated against more human-rated examples.
 
-## Privacy
-
-Do not upload confidential children's recordings to a public deployment. Use a private environment approved by the organiser. The prototype uses temporary files during processing and does not intentionally publish recordings.
-
 ## Limitations
 
 - Transcript accuracy depends on audio quality and accents.
